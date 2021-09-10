@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('pickachu Running! 😎')
+            chalk.green.bold('pikachu Running! 😎')
         );
     });
     
